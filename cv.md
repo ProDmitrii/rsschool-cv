@@ -2,9 +2,9 @@
 
 ## Contacts
 
-__location:__ Russia, Saint-Petersburg
-__Phone:__ +79668696777
-__email__ pronindn@icloud.com
+**location:** Russia, Saint-Petersburg
+**Phone:** +79668696777
+**email:** pronindn@icloud.com
 
 ## About me
 
